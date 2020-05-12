@@ -1,5 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
 
 const routes = require('./routes');
 
@@ -11,6 +12,7 @@ mongoose.connect('mongodb+srv://zumb:zumb@mosy-1lc4v.mongodb.net/confesso?retryW
 
 })
 
+server.use(cors());
 server.use(express.json());
 server.use(routes);
 
