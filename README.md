@@ -6,13 +6,13 @@
 
 <ul>
     <li>
-    Nas seguintes versões:
-    "axios": "^0.19.2",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.9.12",
-    "webpack": "^4.43.0",
-    "yarn": "^1.22.4"
+   <p> Nas seguintes versões:</p>
+    <p>"axios": "^0.19.2",</p>
+    <p>"cors": "^2.8.5",</p>
+    <p>"express": "^4.17.1",</p>
+    <p>"mongoose": "^5.9.12",</p>
+    <p>"webpack": "^4.43.0",</p>
+    <p>"yarn": "^1.22.4"</p>
     </li>
 </lu>
 <h2>Inicializando o backend </h1>
