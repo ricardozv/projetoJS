@@ -19,10 +19,10 @@
 <p1>No terminal execute</p1> 
 <ul>
     <li>
-        $ git clone https://github.com/ricardozv/projetoJS.git
-        $ cd projetoJS 
-        $ cd backend 
-        $ yarn dev  
+       <p>$ git clone https://github.com/ricardozv/projetoJS.git</p>
+       <p>$ cd projetoJS </p> 
+       <p>$ cd backend </p> 
+       <p>$ yarn dev <p>  
     <li>
 </ul>
 
@@ -32,9 +32,9 @@
 
 <ul>
     <li>
-    $ git clone https://github.com/ricardozv/projetoJS.git
-    $ cd projetoJS
-    $ cd frontend 
-    $yarn start
+    <p> $ git clone https://github.com/ricardozv/projetoJS.git </p>
+    <p>$ cd projetoJS</p>
+    <p>$ cd frontend</p> 
+    <p>$yarn start</p>
     <li>
 </ul>
