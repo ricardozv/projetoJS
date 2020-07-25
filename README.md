@@ -17,10 +17,10 @@ e salvando o perfil do dev, para isso foi usado a API publica do github.
     <p>yarn : 1.22.4</p>
     </li>
 </lu>
-#instalando o backend 
-<h2> Dentro da pasta backend </2>
+<h1> Instalando o backend </h1>
+<h2> Dentro da pasta backend </h2>
 <p> Execute npm install ou yarn install <p>
-<h2>Inicializando o backend </h1>
+<h2>Inicializando o backend </h2>
 <p1>No terminal execute</p1> 
 <ul>
     <li>
@@ -34,6 +34,7 @@ e salvando o perfil do dev, para isso foi usado a API publica do github.
 <h1>Frontend</h1>
 <p>O frontend foi construido com REACJS, AXIOS. </p>
 <h2> Dentro da pasta frontend </2>
+<p> Execute npm install ou yarn install </p>
 <p> Execute npm install ou yarn install <p>
 <h2> Inicializado o frontend </h2>
 
