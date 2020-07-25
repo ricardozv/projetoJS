@@ -5,8 +5,8 @@
  import api from '../services/api';
 
  import logo from '../assets/logo.svg';
- import dislike from '../assets/dislike.svg'
- import like from '../assets/like.svg'
+ import dislike from '../assets/dislike.svg';
+ import like from '../assets/like.svg';
 
  export default function Main({ match }) {
     const [ users, setUsers ] = useState([]);
@@ -57,7 +57,7 @@
  
                          <div className = "buttons" >
                              <button type ="button" onClick={() => handleDislike(user._id)}>
-                                 <img src={dislike} alt="Dislike" />
+                                 <img src={dislike} alt="dislike" />
                              </button>
                              <button type ="button" onClick={() => handleLike(user._id)}>
                                  <img src={like} alt="like" />
