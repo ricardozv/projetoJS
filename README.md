@@ -1,5 +1,5 @@
 <h1>Projeto</h1>
-<p>Esse projeto é um estudo da linguagem JAVASCRIPT e uma parte da sua stack, com nodeJS no backend e REACTJS no frontend. </p>
+<p>Este projeto é um estudo da linguagem JAVASCRIPT e uma parte da sua stack, com nodeJS no backend e REACTJS no frontend. </p>
 <p> Este projeto basicamente, faz o cadastro de um desenvolvedor, permitindo aos outros aos devs cadastrados, darem match um no outro, faz uma consulta ao github, 
 e salvando o perfil do dev, para isso foi usado a API publica do github. 
 </p>
